@@ -1,0 +1,13 @@
+<template name="configureLoginServiceDialogForMailchimp">
+    <p>
+        Follow these steps to configure your Mailchimp client:
+    </p>
+    <ol>
+        <li>
+            Visit <a href="https://us3.admin.mailchimp.com/account/oauth2/" target="_blank">https://us3.admin.mailchimp.com/account/oauth2/</a>
+        </li>
+        <li>
+            Set Callback URL to: <span class="url">{{siteUrl}}_oauth/mailchimp?close</span>
+        </li>
+    </ol>
+</template>
