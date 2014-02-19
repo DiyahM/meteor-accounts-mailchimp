@@ -1,0 +1,9 @@
+{
+  "name": "accounts-mailchimp",
+  "description": "Login service for mailchimp accounts",
+  "homepage": "https://github.com/diyahm/meteor-accounts-mailchimp",
+  "author": "Hadiyah Mujhid (https://github.com/diyahm)",
+  "version": "0.0.1",
+  "git": "https://github.com/diyahm/meteor-accounts-mailchimp.git",
+  "packages": {}
+}
